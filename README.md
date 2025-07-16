@@ -1,4 +1,4 @@
 # demo
 This is my first git repository.
 <br />
-Author - Avika Yadav
+Author - Avika Yadav (skit)
